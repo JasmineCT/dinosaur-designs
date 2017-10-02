@@ -1,4 +1,15 @@
-htlm {
+htlm{
   backgroubd-color: #f2f1ed;
   font-family: Georgia, serif;
+}
+img{
+  width: 100%;
+}
+h2{
+  color: #5d8432;
+}
+figcaption{
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
 }
