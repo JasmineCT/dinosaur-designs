@@ -1,5 +1,5 @@
-htlm{
-  backgroubd-color: #f2f1ed;
+html{
+  background-color: #f2f1ed;
   font-family: Georgia, serif;
 }
 img{
@@ -12,4 +12,11 @@ figcaption{
   font-size: 2rem;
   font-style: italic;
   text-align: center;
+}
+a,
+a:link{
+  color: #793284;
+}
+a:hover{
+  color: #b42885;
 }
